@@ -1,11 +1,10 @@
 body {
   font-family: "Times New Roman", serif;
-  background-image: url("https://images.app.goo.gl/uhB4XscvyHXdPSJX6");
+  background-image: url('https://images.app.goo.gl/uhB4XscvyHXdPSJX6');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 100vh;
-  margin: 0;
   display: flex;
   justify-content: center;
   align-items: center;
